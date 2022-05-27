@@ -9,7 +9,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 ### 🎲 Rodando o Back End (servidor)
 - Clone este repositório
-$ git clone <https://github.com/HelenCris/Taks-Manager.git>
+$ git clone <https://github.com/HelenCris/Task-Manager.git>
 
 - Acesse a pasta do projeto no terminal/cmd
 $ cd Task-Manager
