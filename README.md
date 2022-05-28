@@ -1,6 +1,5 @@
 # Taks-Manager
-🚧  Em construção...  🚧
-
+![Task Manager](./imgs/screenshot.jpeg)
 ### Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
